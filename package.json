@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@triton-one/yellowstone-grpc": "^1.0.0"
+  }
+}
